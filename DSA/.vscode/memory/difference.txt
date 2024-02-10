@@ -1,0 +1,9 @@
+static memory:-
+Static memory allocation refers to the allocation of memory at compile time.
+The size of statically allocated memory is determined at compile time and remains fixed throughout the program's execution.
+it is deleted by algorithm once the iteration is over.
+
+Dynamic memory:-
+Dynamic memory allocation refers to the allocation of memory at runtime.
+The size of dynamically allocated memory can be determined at runtime and can change during program execution.
+it can by deallocated manually
