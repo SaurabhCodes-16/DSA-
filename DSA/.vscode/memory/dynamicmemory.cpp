@@ -6,4 +6,5 @@ int main()
 *dynamicVar = 30;
  // Deallocate dynamically allocated memory
  cout << *dynamicVar << endl;
+ delete dynamicVar;
 }
