@@ -1,0 +1,1 @@
+//global variable is bad practice as any function can update it
