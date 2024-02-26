@@ -1,6 +1,7 @@
 #include<iostream>
 //Avg timecomplexity O(nlogn)
 //Worst case O(n^2)
+// https://www.geeksforgeeks.org/quick-sort/
 
 using namespace std;
 
